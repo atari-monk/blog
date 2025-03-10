@@ -1,0 +1,54 @@
+[
+  {
+    "day": "2025-03-09",
+    "time": [
+      {
+        "project": "project-tracker",
+        "task": "Setup repository and project files",
+        "estimate": 20,
+        "start": "18:04",
+        "end": "18:21",
+        "minutes": 17
+      },
+      {
+        "project": "scripting",
+        "task": "Setup repository and project files",
+        "estimate": 30,
+        "start": "19:44",
+        "end": "20:36",
+        "minutes": 52
+      },
+      {
+        "project": "event-emitter",
+        "task": "Setup repository and project files",
+        "estimate": 90,
+        "start": "20:37",
+        "end": "22:03",
+        "minutes": 86
+      }
+    ],
+    "time_sum": {
+      "estimate": "02:20",
+      "total": "02:35"
+    }
+  },
+  {
+    "day": "2025-03-10",
+    "time": [
+      {
+        "project": "",
+        "task": "",
+        "estimate": 30,
+        "start": "15:03",
+        "end": ""
+      },
+      {
+        "project": "battleship-ts",
+        "task": "Implement events in StateMachine",
+        "estimate": 30,
+        "start": "15:03",
+        "end": ""
+      }
+    ]
+  }
+]
