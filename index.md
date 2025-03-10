@@ -1,7 +1,3 @@
-## AI Chat
-
-- [State Machine Event](ai-chat/2025/03/state_machine_event.md)
-
 ## Instruction
 
 - [TypeScript Project Template](instruction/typescript_project.md)

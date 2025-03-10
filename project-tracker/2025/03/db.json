@@ -1,53 +1,93 @@
 [
   {
-    "day": "2025-03-09",
-    "time": [
+    "year": 2025,
+    "month": 3,
+    "records": [
       {
-        "project": "project-tracker",
-        "task": "Setup repository and project files",
-        "estimate": 20,
-        "start": "18:04",
-        "end": "18:21",
-        "minutes": 17
+        "day": 9,
+        "time": [
+          {
+            "project": "project-tracker",
+            "task": "Generate initial files formats, for tracking projects",
+            "estimate": 20,
+            "start": "18:04",
+            "end": "18:21",
+            "minutes": 17
+          },
+          {
+            "project": "scripting",
+            "task": "Setup repository and project files",
+            "estimate": 30,
+            "start": "19:44",
+            "end": "20:36",
+            "minutes": 52
+          },
+          {
+            "project": "event-emitter",
+            "task": "Setup repository and project files",
+            "estimate": 90,
+            "start": "20:37",
+            "end": "22:03",
+            "minutes": 86
+          }
+        ],
+        "time_sum": {
+          "estimate": "02:20",
+          "total": "02:35"
+        }
       },
       {
-        "project": "scripting",
-        "task": "Setup repository and project files",
-        "estimate": 30,
-        "start": "19:44",
-        "end": "20:36",
-        "minutes": 52
+        "day": 10,
+        "time": [
+          {
+            "project": "atari-monk-blog",
+            "task": "Setup repository and project files",
+            "note": [
+              "Aggregation of multiple notes repositories to one blog project",
+              "Condensing all notes and data files"
+            ],
+            "estimate": 180,
+            "start": "15:03",
+            "end": "18:45"
+          },
+          {
+            "project": "scripting",
+            "task": "Add function to load json",
+            "note": [
+              "Library of functions and script to use it",
+              "Problems in importing lib to script"
+            ],
+            "estimate": 20,
+            "start": "20:45",
+            "end": "23:24"
+          }
+        ]
       },
       {
-        "project": "event-emitter",
-        "task": "Setup repository and project files",
-        "estimate": 90,
-        "start": "20:37",
-        "end": "22:03",
-        "minutes": 86
-      }
-    ],
-    "time_sum": {
-      "estimate": "02:20",
-      "total": "02:35"
-    }
-  },
-  {
-    "day": "2025-03-10",
-    "time": [
-      {
-        "project": "",
-        "task": "",
-        "estimate": 30,
-        "start": "15:03",
-        "end": ""
-      },
-      {
-        "project": "battleship-ts",
-        "task": "Implement events in StateMachine",
-        "estimate": 30,
-        "start": "15:03",
-        "end": ""
+        "day": 11,
+        "time": [
+          {
+            "project": "event-emitter",
+            "task": "Add Interface API",
+            "estimate": 30,
+            "start": "",
+            "end": ""
+          },
+          {
+            "project": "battleship-ts",
+            "task": "Implement event in StateMachine",
+            "estimate": 30,
+            "start": "",
+            "end": ""
+          },
+          {
+            "project": "declutter files",
+            "task": "Remove not needed files",
+            "estimate": 30,
+            "start": "",
+            "end": ""
+          }
+        ]
       }
     ]
   }
