@@ -117,6 +117,363 @@
     "notes": ["Background audio can be both helpful and distracting"]
   },
   {
+    "date": "2025-03-01",
+    "project": "battleship-ts",
+    "task": "Add check for already attacked cell",
+    "estimate_minutes": 20,
+    "start_time": "17:42",
+    "end_time": "18:24",
+    "actual_minutes": 20,
+    "notes": ["Jest test only runs with correct test name (x.test.ts)"]
+  },
+  {
+    "date": "2025-03-01",
+    "project": "battleship-ts",
+    "task": "Implement game modes: 2 players, player vs AI",
+    "estimate_minutes": 20,
+    "start_time": "23:12",
+    "end_time": "00:08",
+    "actual_minutes": 20,
+    "notes": [""]
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Implement game modes: 2 players, player vs AI",
+    "estimate_minutes": 20,
+    "start_time": "12:41",
+    "end_time": "13:44",
+    "actual_minutes": 20,
+    "notes": [
+      "Add option to choose the game mode",
+      "Got distracted with unrelated notes"
+    ]
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Generate simple AI that randomly hits unhit cells",
+    "estimate_minutes": 20,
+    "start_time": "14:33",
+    "end_time": "14:52",
+    "actual_minutes": 19,
+    "notes": []
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Refactor based on ChatGPT code review",
+    "estimate_minutes": 20,
+    "start_time": "14:55",
+    "end_time": "16:13",
+    "actual_minutes": 78,
+    "notes": ["Failed—refactoring broke Vite and Webpack, changes discarded"]
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Fix Vite issue",
+    "estimate_minutes": 20,
+    "start_time": "16:16",
+    "end_time": "16:32",
+    "actual_minutes": 16,
+    "notes": []
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Refactor code",
+    "estimate_minutes": 20,
+    "start_time": "16:33",
+    "end_time": "16:51",
+    "actual_minutes": 18,
+    "notes": []
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Generate advanced AI",
+    "estimate_minutes": 20,
+    "start_time": "16:51",
+    "end_time": "18:28",
+    "actual_minutes": 97,
+    "notes": [
+      "AI is complex. Shifted from creating 1000 classes to simplifying the problem",
+      "Two files and new functions for AI, progress step-by-step"
+    ]
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Make log format usable again",
+    "estimate_minutes": 20,
+    "start_time": "19:21",
+    "end_time": "21:34",
+    "actual_minutes": 133,
+    "notes": []
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Shorten log further",
+    "estimate_minutes": 20,
+    "start_time": "21:35",
+    "end_time": "22:48",
+    "actual_minutes": 73,
+    "notes": []
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Convert time log to JSON and calculate with Python",
+    "estimate_minutes": 20,
+    "start_time": "22:49",
+    "end_time": "23:06",
+    "actual_minutes": 17,
+    "notes": []
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Script to generate new _in.json file monthly",
+    "estimate_minutes": 60,
+    "start_time": "23:07",
+    "end_time": "00:05",
+    "actual_minutes": 58,
+    "notes": []
+  },
+  {
+    "date": "2025-03-02",
+    "project": "battleship-ts",
+    "task": "Fix time calculation script to automatically use the current month without user input",
+    "estimate_minutes": 20,
+    "start_time": "00:06",
+    "end_time": "00:20",
+    "actual_minutes": 14,
+    "notes": []
+  },
+  {
+    "date": "2025-03-03",
+    "project": "battleship-ts",
+    "task": "Generate advanced AI",
+    "estimate_minutes": 30,
+    "start_time": "11:26",
+    "end_time": "13:24",
+    "actual_minutes": 118,
+    "notes": ["State machine with switchable strategies"]
+  },
+  {
+    "date": "2025-03-03",
+    "project": "battleship-ts",
+    "task": "Put visuals on web page",
+    "estimate_minutes": 120,
+    "start_time": "13:57",
+    "end_time": "15:36",
+    "actual_minutes": 99,
+    "notes": []
+  },
+  {
+    "date": "2025-03-03",
+    "project": "battleship-ts",
+    "task": "Partitioned one big file to subsystem named files (config, loop, logic, render, input)",
+    "estimate_minutes": 120,
+    "start_time": "17:20",
+    "end_time": "18:34",
+    "actual_minutes": 74,
+    "notes": []
+  },
+  {
+    "date": "2025-03-03",
+    "project": "battleship-ts",
+    "task": "Added Next button. It allows to stop game loop and see ai move on its grid",
+    "estimate_minutes": 30,
+    "start_time": "21:05",
+    "end_time": "21:41",
+    "actual_minutes": 36,
+    "notes": []
+  },
+  {
+    "date": "2025-03-04",
+    "project": "battleship-ts",
+    "task": "Generate advanced AI",
+    "estimate_minutes": 30,
+    "start_time": "10:04",
+    "end_time": "10:45",
+    "actual_minutes": 30,
+    "notes": ["Tested Random strategy sinking ship. Fixed ending game bug"]
+  },
+  {
+    "date": "2025-03-04",
+    "project": "battleship-ts",
+    "task": "Generate advanced AI",
+    "estimate_minutes": 120,
+    "start_time": "10:46",
+    "end_time": "13:48",
+    "actual_minutes": 182,
+    "notes": ["Tested strategy for finding ship orientation"]
+  },
+  {
+    "date": "2025-03-04",
+    "project": "battleship-ts",
+    "task": "Hide inputs in ai turn",
+    "estimate_minutes": 120,
+    "start_time": "16:00",
+    "end_time": "17:45",
+    "actual_minutes": 105,
+    "notes": [
+      "Improved logging in page and console",
+      "Improved project docs structure"
+    ]
+  },
+  {
+    "date": "2025-03-04",
+    "project": "battleship-ts",
+    "task": "Sort type files to type folders",
+    "estimate_minutes": 20,
+    "start_time": "18:42",
+    "end_time": "19:22",
+    "actual_minutes": 40,
+    "notes": []
+  },
+  {
+    "date": "2025-03-04",
+    "project": "battleship-ts",
+    "task": "Make buttons react to enter",
+    "estimate_minutes": 20,
+    "start_time": "20:48",
+    "end_time": "21:04",
+    "actual_minutes": 16,
+    "notes": ["Input focus, buttons handle enter one after another"]
+  },
+  {
+    "date": "2025-03-05",
+    "project": "battleship-ts",
+    "task": "Is conversion form json to jsonl for my time stats smart ? ",
+    "estimate_minutes": 30,
+    "start_time": "14:43",
+    "end_time": "15:04",
+    "actual_minutes": 21,
+    "notes": [
+      "No, this is just one moth data, human readable format is better for small data object.",
+      "Jsonl can append to file simpler, reads object as line.",
+      "Json read whole file as array of objects, appends and overrides whole file.",
+      "For small data set i prefer human readable format."
+    ]
+  },
+  {
+    "date": "2025-03-05",
+    "project": "battleship-ts",
+    "task": "Turn off player to test AI. Brute force commenting code out",
+    "estimate_minutes": 30,
+    "start_time": "15:05",
+    "end_time": "15:22",
+    "actual_minutes": 17,
+    "notes": []
+  },
+  {
+    "date": "2025-03-05",
+    "project": "battleship-ts",
+    "task": "Strategy to find ends of ship, to sink it, knowing orientation",
+    "estimate_minutes": 30,
+    "start_time": "15:23",
+    "end_time": "16:22",
+    "actual_minutes": 59,
+    "notes": [
+      "Add empty strategy first.",
+      "Trying to hit next to first 2 hits that determine ship orientation."
+    ]
+  },
+  {
+    "date": "2025-03-05",
+    "project": "battleship-ts",
+    "task": "Strategy to find ends of ship, to sink it, knowing orientation",
+    "estimate_minutes": 30,
+    "start_time": "20:29",
+    "end_time": "21:36",
+    "actual_minutes": 67,
+    "notes": ["Doc describing strategies, testing."]
+  },
+  {
+    "date": "2025-03-05",
+    "project": "battleship-ts",
+    "task": "Strategy to find ends of ship, to sink it, knowing orientation",
+    "estimate_minutes": 30,
+    "start_time": "23:27",
+    "end_time": "00:35",
+    "actual_minutes": 68,
+    "notes": ["Step by step debug removed bugs and refined implementation."]
+  },
+  {
+    "date": "2025-03-06",
+    "project": "battleship-ts",
+    "task": "Fix bug in sink ship strategy",
+    "estimate_minutes": 30,
+    "start_time": "15:17",
+    "end_time": "15:36",
+    "actual_minutes": 19,
+    "notes": []
+  },
+  {
+    "date": "2025-03-06",
+    "project": "battleship-ts",
+    "task": "Write doc on ai's Random Strategy",
+    "estimate_minutes": 20,
+    "start_time": "19:16",
+    "end_time": "20:07",
+    "actual_minutes": 51,
+    "notes": []
+  },
+  {
+    "date": "2025-03-06",
+    "project": "battleship-ts",
+    "task": "Write doc on ai's Ship Orientation and Sink Strategies",
+    "estimate_minutes": 20,
+    "start_time": "21:08",
+    "end_time": "21:31",
+    "actual_minutes": 23,
+    "notes": []
+  },
+  {
+    "date": "2025-03-06",
+    "project": "battleship-ts",
+    "task": "Write new test with vertical ship",
+    "estimate_minutes": 30,
+    "start_time": "22:32",
+    "end_time": "23:09",
+    "actual_minutes": 37,
+    "notes": []
+  },
+  {
+    "date": "2025-03-08",
+    "project": "battleship-ts",
+    "task": "Refactor project_configuration.md document",
+    "estimate_minutes": 10,
+    "start_time": "19:53",
+    "end_time": "20:03",
+    "actual_minutes": 0,
+    "notes": []
+  },
+  {
+    "date": "2025-03-08",
+    "project": "battleship-ts",
+    "task": "Fix test 3, after sinking ship, switch to random",
+    "estimate_minutes": 30,
+    "start_time": "22:14",
+    "end_time": "22:51",
+    "actual_minutes": 0,
+    "notes": ["Script removing comments"]
+  },
+  {
+    "date": "2025-03-09",
+    "project": "battleship-ts",
+    "task": "StateMachine class, points 1-x. Generate documentation",
+    "estimate_minutes": 20,
+    "start_time": "16:34",
+    "end_time": "16:42",
+    "actual_minutes": 0,
+    "notes": []
+  },
+  {
     "date": "2025-03-09",
     "project": "project-tracker",
     "task": "Generate initial files formats, for tracking projects",

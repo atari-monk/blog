@@ -1,5 +1,20 @@
 [
   {"project": "event-emitter", "task": "Add Interface API"},
   {"project": "battleship-ts", "task": "Implement event in StateMachine"},
+  {
+    "project": "battleship-ts",
+    "task": "Add functions to select test in tests file"
+  },
+  {
+    "project": "battleship-ts",
+    "task": "Generate json or md to automate reflection on day"
+  },
+  {"project": "battleship-ts", "task": "Publish"},
+  {"project": "battleship-ts", "task": "Restore configurable Console mode"},
+  {
+    "project": "battleship-ts",
+    "task": "Investigate why i cant use lib HitResult in client logic"
+  },
+  {"project": "battleship-ts", "task": "Reflect"},
   {"project": "declutter files", "task": "Remove not needed files"}
 ]
