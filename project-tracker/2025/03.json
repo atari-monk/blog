@@ -1,0 +1,88 @@
+[
+  {
+    "date": "2025-03-09",
+    "project": "project-tracker",
+    "task": "Generate initial files formats, for tracking projects",
+    "estimate_minutes": 20,
+    "start_time": "18:04",
+    "end_time": "18:21",
+    "actual_minutes": 17,
+    "notes": []
+  },
+  {
+    "date": "2025-03-09",
+    "project": "scripting",
+    "task": "Setup repository and project files",
+    "estimate_minutes": 30,
+    "start_time": "19:44",
+    "end_time": "20:36",
+    "actual_minutes": 52,
+    "notes": []
+  },
+  {
+    "date": "2025-03-09",
+    "project": "event-emitter",
+    "task": "Setup repository and project files",
+    "estimate_minutes": 90,
+    "start_time": "20:37",
+    "end_time": "22:03",
+    "actual_minutes": 86,
+    "notes": []
+  },
+  {
+    "date": "2025-03-10",
+    "project": "atari-monk-blog",
+    "task": "Setup repository and project files",
+    "estimate_minutes": 180,
+    "start_time": "15:03",
+    "end_time": "18:45",
+    "actual_minutes": 222,
+    "notes": [
+      "Aggregation of multiple notes repositories to one blog project",
+      "Condensing all notes and data files"
+    ]
+  },
+  {
+    "date": "2025-03-10",
+    "project": "scripting",
+    "task": "Add function to load json",
+    "estimate_minutes": 20,
+    "start_time": "20:45",
+    "end_time": "23:24",
+    "actual_minutes": 159,
+    "notes": [
+      "Library of functions and script to use it",
+      "Problems in importing lib to script"
+    ]
+  },
+  {
+    "date": "2025-03-11",
+    "project": "scripting",
+    "task": "Functions to manipulate json",
+    "estimate_minutes": 30,
+    "start_time": "11:50",
+    "end_time": "13:02",
+    "actual_minutes": 72,
+    "notes": []
+  },
+  {
+    "date": "2025-03-11",
+    "project": "atari-monk-blog",
+    "task": "Generate file format for project tracking",
+    "estimate_minutes": 10,
+    "start_time": "17:20",
+    "end_time": "17:27",
+    "actual_minutes": 7,
+    "notes": []
+  },
+  {
+    "date": "2025-03-11",
+    "project": "scripting",
+    "task": "Generate scripts to work with new format",
+    "estimate_minutes": 120,
+    "start_time": "17:28",
+    "end_time": "",
+    "actual_minutes": 0,
+    "notes": []
+  }
+]

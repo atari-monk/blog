@@ -1,0 +1,5 @@
+[
+  {"project": "event-emitter", "task": "Add Interface API"},
+  {"project": "battleship-ts", "task": "Implement event in StateMachine"},
+  {"project": "declutter files", "task": "Remove not needed files"}
+]
