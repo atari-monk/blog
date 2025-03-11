@@ -450,7 +450,7 @@
     "estimate_minutes": 10,
     "start_time": "19:53",
     "end_time": "20:03",
-    "actual_minutes": 0,
+    "actual_minutes": 10,
     "notes": []
   },
   {
@@ -460,7 +460,7 @@
     "estimate_minutes": 30,
     "start_time": "22:14",
     "end_time": "22:51",
-    "actual_minutes": 0,
+    "actual_minutes": 37,
     "notes": ["Script removing comments"]
   },
   {
@@ -470,7 +470,7 @@
     "estimate_minutes": 20,
     "start_time": "16:34",
     "end_time": "16:42",
-    "actual_minutes": 0,
+    "actual_minutes": 8,
     "notes": []
   },
   {
@@ -555,8 +555,11 @@
     "task": "Generate scripts to work with new format",
     "estimate_minutes": 120,
     "start_time": "17:28",
-    "end_time": "",
-    "actual_minutes": 0,
-    "notes": []
+    "end_time": "20:43",
+    "actual_minutes": 195,
+    "notes": [
+      "Make data format simple to make its py scripts simpler.",
+      "Import data from battleship-ts project."
+    ]
   }
 ]
