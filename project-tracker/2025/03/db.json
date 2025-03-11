@@ -5,7 +5,7 @@
     "records": [
       {
         "day": 9,
-        "time": [
+        "records": [
           {
             "project": "project-tracker",
             "task": "Generate initial files formats, for tracking projects",
@@ -31,14 +31,14 @@
             "minutes": 86
           }
         ],
-        "time_sum": {
+        "stats": {
           "estimate": "02:20",
           "total": "02:35"
         }
       },
       {
         "day": 10,
-        "time": [
+        "records": [
           {
             "project": "atari-monk-blog",
             "task": "Setup repository and project files",
@@ -48,7 +48,8 @@
             ],
             "estimate": 180,
             "start": "15:03",
-            "end": "18:45"
+            "end": "18:45",
+            "minutes": 222
           },
           {
             "project": "scripting",
@@ -59,13 +60,26 @@
             ],
             "estimate": 20,
             "start": "20:45",
-            "end": "23:24"
+            "end": "23:24",
+            "minutes": 159
           }
-        ]
+        ],
+        "stats": {
+          "estimate": "03:20",
+          "total": "06:21"
+        }
       },
       {
         "day": 11,
-        "time": [
+        "records": [
+          {
+            "project": "scripting",
+            "task": "Functions to manipulate json",
+            "estimate": 30,
+            "start": "11:50",
+            "end": "13:02",
+            "minutes": 72
+          },
           {
             "project": "event-emitter",
             "task": "Add Interface API",
@@ -87,7 +101,11 @@
             "start": "",
             "end": ""
           }
-        ]
+        ],
+        "stats": {
+          "estimate": "02:00",
+          "total": "01:12"
+        }
       }
     ]
   }
