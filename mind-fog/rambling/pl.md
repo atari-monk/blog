@@ -1,4 +1,4 @@
-# **Błądzenie**
+# **Brednie**
 
 - Tęsknię za ludzkim dotykiem, ale nie znoszę ludzi.
 
