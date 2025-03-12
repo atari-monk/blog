@@ -14,10 +14,10 @@
 
 ### Rambling
 
-- [All](mind-fog/rambling/en.md)
-- [All pl](mind-fog/rambling/pl.md)
-- [New](mind-fog/rambling/new_en.md)
-- [New pl](mind-fog/rambling/new_pl.md)
+- [New](mind-fog/rambling/new_en.md)  
+  - [pl](mind-fog/rambling/new_pl.md)
+- [All](mind-fog/rambling/en.md)  
+  - [pl](mind-fog/rambling/pl.md)
 
 ## Contact
 
