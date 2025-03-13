@@ -444,5 +444,75 @@
       "Make data format simple to make its py scripts simpler.",
       "Import data from battleship-ts project."
     ]
+  },
+  {
+    "date": "2025-03-12",
+    "project": "scripting",
+    "task": "project-tracker scripts",
+    "estimate_minutes": 30,
+    "start_time": "13:20",
+    "end_time": "16:00",
+    "actual_minutes": 160,
+    "notes": []
+  },
+  {
+    "date": "2025-03-12",
+    "project": "scripting",
+    "task": "project-tracker scripts",
+    "estimate_minutes": 30,
+    "start_time": "17:18",
+    "end_time": "18:50",
+    "actual_minutes": 92,
+    "notes": []
+  },
+  {
+    "date": "2025-03-12",
+    "project": "scripting",
+    "task": "project-tracker scripts",
+    "estimate_minutes": 30,
+    "start_time": "22:18",
+    "end_time": "00:10",
+    "actual_minutes": 112,
+    "notes": []
+  },
+  {
+    "date": "2025-03-13",
+    "project": "scripting",
+    "task": "project-tracker scripts",
+    "estimate_minutes": 30,
+    "start_time": "08:50",
+    "end_time": "11:10",
+    "actual_minutes": 140,
+    "notes": []
+  },
+  {
+    "date": "2025-03-13",
+    "project": "scripting",
+    "task": "project-tracker scripts",
+    "estimate_minutes": 30,
+    "start_time": "13:28",
+    "end_time": "13:55",
+    "actual_minutes": 27,
+    "notes": []
+  },
+  {
+    "date": "2025-03-13",
+    "project": "scripting",
+    "task": "project-tracker scripts",
+    "estimate_minutes": 30,
+    "start_time": "15:35",
+    "end_time": "17:03",
+    "actual_minutes": 88,
+    "notes": []
+  },
+  {
+    "date": "2025-03-13",
+    "project": "scripting",
+    "task": "Generate links data model and scripts; fix project-tracker, 'end' script bug",
+    "estimate_minutes": 30,
+    "start_time": "23:18",
+    "end_time": "00:43",
+    "actual_minutes": 85,
+    "notes": []
   }
 ]
