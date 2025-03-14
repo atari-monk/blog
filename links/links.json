@@ -2,37 +2,21 @@
   {
     "name": "ChatGPT",
     "url": "https://chatgpt.com/",
-    "tags": ["AI", "Chatbot", "Productivity"],
-    "description": "",
-    "created_at": "",
-    "last_accessed": "",
-    "access_count": 0
+    "tags": ["LLM"]
   },
   {
     "name": "DeepSeek",
     "url": "https://chat.deepseek.com/",
-    "tags": ["AI", "Chatbot", "Productivity"],
-    "description": "An AI-powered chatbot similar to ChatGPT.",
-    "created_at": "",
-    "last_accessed": "",
-    "access_count": 0
+    "tags": ["LLM"]
   },
   {
     "name": "Your Repositories",
     "url": "https://github.com/atari-monk?tab=repositories",
-    "tags": ["GitHub", "Personal"],
-    "description": "",
-    "created_at": "",
-    "last_accessed": "",
-    "access_count": 0
+    "tags": ["Personal Project"]
   },
   {
     "name": "pong",
     "url": "https://atari-monk.github.io/js-pong-page/",
-    "tags": ["Personal Project"],
-    "description": "Classic pong game webdev",
-    "created_at": "2025-03-14",
-    "last_accessed": "",
-    "access_count": 0
+    "tags": ["Personal Project"]
   }
 ]

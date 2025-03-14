@@ -17,3 +17,7 @@
 - Feelings, thoughts, experiences, mind byproduct.
   
 - Mind can build logical structures endlessly, yet knowledge is always limited.
+
+- No man knows anything, this is all just fables to fight with words, labels on noise, patterns.
+
+- Sex as reproduction, fun, currency.

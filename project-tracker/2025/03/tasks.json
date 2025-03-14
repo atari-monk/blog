@@ -514,5 +514,15 @@
     "end_time": "00:43",
     "actual_minutes": 85,
     "notes": []
+  },
+  {
+    "date": "2025-03-14",
+    "project": "scripting",
+    "task": "Store links in links project",
+    "estimate_minutes": 60,
+    "start_time": "14:59",
+    "end_time": "",
+    "actual_minutes": 0,
+    "notes": []
   }
 ]

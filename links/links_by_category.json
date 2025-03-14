@@ -1,0 +1,10 @@
+{
+  "LLM": {
+    "ChatGPT": "https://chatgpt.com/",
+    "DeepSeek": "https://chat.deepseek.com/"
+  },
+  "Personal Project": {
+    "Your Repositories": "https://github.com/atari-monk?tab=repositories",
+    "pong": "https://atari-monk.github.io/js-pong-page/"
+  }
+}
