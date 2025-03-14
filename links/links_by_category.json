@@ -1,7 +1,12 @@
 {
   "LLM": {
     "ChatGPT": "https://chatgpt.com/",
-    "DeepSeek": "https://chat.deepseek.com/"
+    "DeepSeek": "https://chat.deepseek.com/",
+    "Voice Control for ChatGPT": "https://chromewebstore.google.com/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn?hl=en",
+    "qwen": "https://chat.qwen.ai/",
+    "agent.ai": "https://agent.ai/",
+    "claude.ai": "https://claude.ai/new",
+    "PLLuM": "https://pllum.clarin-pl.eu/pllum_8x7b"
   },
   "Personal Project": {
     "Your Repositories": "https://github.com/atari-monk?tab=repositories",
@@ -9,6 +14,48 @@
     "memory-game-1": "https://atari-monk.github.io/memory-game-1/",
     "mini-game": "https://atari-monk.github.io/mini-game/",
     "battleship-mobile": "https://atari-monk.github.io/battleship-mobile/",
-    "dev-guides": "https://atari-monk.github.io/dev-guides/"
+    "dev-guides": "https://atari-monk.github.io/dev-guides/",
+    "code-generator": "https://atari-monk.github.io/code-generator/",
+    "doc-site": "https://atari-monk.github.io/doc-site/",
+    "cli_tool": "https://atari-monk.github.io/cli_tool/",
+    "cli_commands": "https://atari-monk.github.io/cli_commands/",
+    "apollo": "https://atari-monk.github.io/apollo/",
+    "cli_logger": "https://atari-monk.github.io/cli_logger/",
+    "notes_app": "https://atari-monk.github.io/notes_app/public_page/build/?category=link",
+    "PyPI": "https://pypi.org/account/login/",
+    "battleship-vanilla": "https://atari-monk.github.io/battleship-vanilla/",
+    "battleship-js": "https://atari-monk.github.io/battleship-js/",
+    "battleship-ts": "https://atari-monk.github.io/battleship-ts/",
+    "solar-system": "https://atari-monk.github.io/solar-system/",
+    "templates": "https://atari-monk.github.io/templates/",
+    "project-tracker": "https://atari-monk.github.io/project-tracker/",
+    "scripting": "https://atari-monk.github.io/scripting/",
+    "atari-monk-blog": "https://atari-monk.github.io/atari-monk-blog/"
+  },
+  "google": {
+    "google translate": "https://translate.google.com/?hl=pl&sl=en&tl=pl&op=translate"
+  },
+  "Film": {
+    "One Night at McCool's": "https://en.wikipedia.org/wiki/One_Night_at_McCool%27s"
+  },
+  "People": {
+    "dafluffypotato": "https://dafluffypotato.com/skills",
+    "Jonathan Blow": "https://x.com/Jonathan_Blow?mx=2"
+  },
+  "Engine": {
+    "Ogre": "https://www.ogre3d.org/"
+  },
+  "Off Grid": {
+    "Zestaw do grzania wody w bojlerach": "https://www.polskieprzetwornice.pl/sklep/zestaw-do-grzania-wody-w-bojlerach-5-pv-2000-mono-eco-solar-boost-pro-mppt/?osCsid=orpc7dgti3k2nta32p9qcljj57",
+    "dagmaholz": "https://dagmaholz.com.pl/"
+  },
+  "Apps": {
+    "virtual-piano": "https://www.onlinepianist.com/virtual-piano"
+  },
+  "WebDev": {
+    "mdn": "https://developer.mozilla.org/en-US/"
+  },
+  "Jobs": {
+    "Deel": "https://www.deel.com/"
   }
 }

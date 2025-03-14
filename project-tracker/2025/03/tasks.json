@@ -534,5 +534,15 @@
     "end_time": "19:48",
     "actual_minutes": 104,
     "notes": []
+  },
+  {
+    "date": "2025-03-14",
+    "project": "atari-monk-blog",
+    "task": "Add links to data",
+    "estimate_minutes": 30,
+    "start_time": "22:43",
+    "end_time": "23:51",
+    "actual_minutes": 68,
+    "notes": ["Moved folder of links"]
   }
 ]

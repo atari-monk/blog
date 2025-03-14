@@ -12,6 +12,18 @@
     "created_at": "2025-03"
   },
   {
+    "name": "Voice Control for ChatGPT",
+    "url": "https://chromewebstore.google.com/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn?hl=en",
+    "tags": ["LLM"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "google translate",
+    "url": "https://translate.google.com/?hl=pl&sl=en&tl=pl&op=translate",
+    "tags": ["google"],
+    "created_at": "2025-03"
+  },
+  {
     "name": "Your Repositories",
     "url": "https://github.com/atari-monk?tab=repositories",
     "tags": ["Personal Project"],
@@ -44,6 +56,180 @@
   {
     "name": "dev-guides",
     "url": "https://atari-monk.github.io/dev-guides/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "code-generator",
+    "url": "https://atari-monk.github.io/code-generator/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "doc-site",
+    "url": "https://atari-monk.github.io/doc-site/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "cli_tool",
+    "url": "https://atari-monk.github.io/cli_tool/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "cli_commands",
+    "url": "https://atari-monk.github.io/cli_commands/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "apollo",
+    "url": "https://atari-monk.github.io/apollo/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "cli_logger",
+    "url": "https://atari-monk.github.io/cli_logger/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "notes_app",
+    "url": "https://atari-monk.github.io/notes_app/public_page/build/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "One Night at McCool's",
+    "url": "https://en.wikipedia.org/wiki/One_Night_at_McCool%27s",
+    "tags": ["Film"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "PyPI",
+    "url": "https://pypi.org/account/login/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "dafluffypotato",
+    "url": "https://dafluffypotato.com/skills",
+    "tags": ["People"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "Ogre",
+    "url": "https://www.ogre3d.org/",
+    "tags": ["Engine"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "Zestaw do grzania wody w bojlerach",
+    "url": "https://www.polskieprzetwornice.pl/sklep/zestaw-do-grzania-wody-w-bojlerach-5-pv-2000-mono-eco-solar-boost-pro-mppt/?osCsid=orpc7dgti3k2nta32p9qcljj57",
+    "tags": ["Off Grid"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "battleship-vanilla",
+    "url": "https://atari-monk.github.io/battleship-vanilla/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "qwen",
+    "url": "https://chat.qwen.ai/",
+    "tags": ["LLM"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "Jonathan Blow",
+    "url": "https://x.com/Jonathan_Blow?mx=2",
+    "tags": ["People"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "virtual-piano",
+    "url": "https://www.onlinepianist.com/virtual-piano",
+    "tags": ["Apps"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "battleship-js",
+    "url": "https://atari-monk.github.io/battleship-js/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "mdn",
+    "url": "https://developer.mozilla.org/en-US/",
+    "tags": ["WebDev"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "agent.ai",
+    "url": "https://agent.ai/",
+    "tags": ["LLM"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "claude.ai",
+    "url": "https://claude.ai/new",
+    "tags": ["LLM"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "dagmaholz",
+    "url": "https://dagmaholz.com.pl/",
+    "tags": ["Off Grid"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "Deel",
+    "url": "https://www.deel.com/",
+    "tags": ["Jobs"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "PLLuM",
+    "url": "https://pllum.clarin-pl.eu/pllum_8x7b",
+    "tags": ["LLM"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "battleship-ts",
+    "url": "https://atari-monk.github.io/battleship-ts/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "solar-system",
+    "url": "https://atari-monk.github.io/solar-system/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "templates",
+    "url": "https://atari-monk.github.io/templates/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "project-tracker",
+    "url": "https://atari-monk.github.io/project-tracker/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "scripting",
+    "url": "https://atari-monk.github.io/scripting/",
+    "tags": ["Personal Project"],
+    "created_at": "2025-03"
+  },
+  {
+    "name": "atari-monk-blog",
+    "url": "https://atari-monk.github.io/atari-monk-blog/",
     "tags": ["Personal Project"],
     "created_at": "2025-03"
   }
