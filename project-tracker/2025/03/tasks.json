@@ -521,8 +521,18 @@
     "task": "Store links in links project",
     "estimate_minutes": 60,
     "start_time": "14:59",
-    "end_time": "",
-    "actual_minutes": 0,
+    "end_time": "16:45",
+    "actual_minutes": 106,
+    "notes": ["Pondering json formats, flat and flexible vs grouped"]
+  },
+  {
+    "date": "2025-03-14",
+    "project": "scripting",
+    "task": "Scripts to store links in links project",
+    "estimate_minutes": 30,
+    "start_time": "18:04",
+    "end_time": "19:48",
+    "actual_minutes": 104,
     "notes": []
   }
 ]

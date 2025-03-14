@@ -5,6 +5,10 @@
   },
   "Personal Project": {
     "Your Repositories": "https://github.com/atari-monk?tab=repositories",
-    "pong": "https://atari-monk.github.io/js-pong-page/"
+    "pong": "https://atari-monk.github.io/js-pong-page/",
+    "memory-game-1": "https://atari-monk.github.io/memory-game-1/",
+    "mini-game": "https://atari-monk.github.io/mini-game/",
+    "battleship-mobile": "https://atari-monk.github.io/battleship-mobile/",
+    "dev-guides": "https://atari-monk.github.io/dev-guides/"
   }
 }
