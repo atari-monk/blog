@@ -581,8 +581,8 @@
     "task": "Tomato seeding",
     "estimate_minutes": 120,
     "start_time": "13:41",
-    "end_time": "",
-    "actual_minutes": 0,
+    "end_time": "16:00",
+    "actual_minutes": 139,
     "notes": []
   },
   {
@@ -623,6 +623,76 @@
     "start_time": "13:04",
     "end_time": "13:27",
     "actual_minutes": 23,
+    "notes": []
+  },
+  {
+    "date": "2025-03-16",
+    "project": "scripting",
+    "task": "Write one script to rule them all",
+    "estimate_minutes": 30,
+    "start_time": "13:33",
+    "end_time": "14:12",
+    "actual_minutes": 39,
+    "notes": []
+  },
+  {
+    "date": "2025-03-16",
+    "project": "scripting",
+    "task": "From archive, bring back scripts regarding project",
+    "estimate_minutes": 30,
+    "start_time": "16:44",
+    "end_time": "17:14",
+    "actual_minutes": 30,
+    "notes": []
+  },
+  {
+    "date": "2025-03-16",
+    "project": "solar-system",
+    "task": "to smaller files, parametrize magic numbers",
+    "estimate_minutes": 30,
+    "start_time": "17:16",
+    "end_time": "18:01",
+    "actual_minutes": 45,
+    "notes": []
+  },
+  {
+    "date": "2025-03-16",
+    "project": "scripting",
+    "task": "Add args flags to master script",
+    "estimate_minutes": 30,
+    "start_time": "18:57",
+    "end_time": "19:34",
+    "actual_minutes": 37,
+    "notes": []
+  },
+  {
+    "date": "2025-03-16",
+    "project": "solar-system",
+    "task": "Parametrize magic numbers more",
+    "estimate_minutes": 30,
+    "start_time": "21:10",
+    "end_time": "21:35",
+    "actual_minutes": 25,
+    "notes": ["Calculate frame timing. Tired of sitting."]
+  },
+  {
+    "date": "2025-03-16",
+    "project": "solar-system",
+    "task": "Parametrize magic numbers more",
+    "estimate_minutes": 30,
+    "start_time": "23:06",
+    "end_time": "23:22",
+    "actual_minutes": 16,
+    "notes": ["More configs with values"]
+  },
+  {
+    "date": "2025-03-16",
+    "project": "scripting",
+    "task": "Script to register sleep hour",
+    "estimate_minutes": 20,
+    "start_time": "23:26",
+    "end_time": "23:50",
+    "actual_minutes": 24,
     "notes": []
   }
 ]
