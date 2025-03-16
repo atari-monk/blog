@@ -1,5 +1,15 @@
 [
   {
+    "date": "2025-02-12",
+    "project": "solar-system",
+    "task": "Add initial implementation of solar system simulation with HTML",
+    "estimate_minutes": 30,
+    "start_time": "09:40",
+    "end_time": "10:25",
+    "actual_minutes": 45,
+    "notes": ["Update simulation to be frame-rate independent and improve trace storage"]
+  },
+  {
     "date": "2025-02-26",
     "project": "battleship-ts",
     "task": "Write document on 'How to quickly start a TypeScript project'",

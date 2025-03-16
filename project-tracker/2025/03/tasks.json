@@ -1,6 +1,16 @@
 [
   {
     "date": "2025-03-01",
+    "project": "solar-system",
+    "task": "Remove obsolete log and server files",
+    "estimate_minutes": 20,
+    "start_time": "16:40",
+    "end_time": "17:00",
+    "actual_minutes": 20,
+    "notes": []
+  },
+  {
+    "date": "2025-03-01",
     "project": "battleship-ts",
     "task": "Add check for already attacked cell",
     "estimate_minutes": 20,
@@ -327,6 +337,16 @@
     "notes": []
   },
   {
+    "date": "2025-03-07",
+    "project": "solar-system",
+    "task": "Organize project",
+    "estimate_minutes": 20,
+    "start_time": "07:54",
+    "end_time": "08:30",
+    "actual_minutes": 36,
+    "notes": ["Docs (log) and scripts"]
+  },
+  {
     "date": "2025-03-08",
     "project": "battleship-ts",
     "task": "Refactor project_configuration.md document",
@@ -335,6 +355,16 @@
     "end_time": "20:03",
     "actual_minutes": 10,
     "notes": []
+  },
+  {
+    "date": "2025-03-08",
+    "project": "solar-system",
+    "task": "Refactor to TypeScript Project using [template](https://atari-monk.github.io/templates/typescript_project_template.html)",
+    "estimate_minutes": 30,
+    "start_time": "20:14",
+    "end_time": "20:41",
+    "actual_minutes": 27,
+    "notes": [""]
   },
   {
     "date": "2025-03-08",
@@ -584,5 +614,15 @@
     "end_time": "23:40",
     "actual_minutes": 39,
     "notes": ["Intermediate file moved to json"]
+  },
+  {
+    "date": "2025-03-16",
+    "project": "solar-system",
+    "task": "Move log to new storage",
+    "estimate_minutes": 30,
+    "start_time": "13:04",
+    "end_time": "13:27",
+    "actual_minutes": 23,
+    "notes": []
   }
 ]
