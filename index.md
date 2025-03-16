@@ -15,9 +15,7 @@
 ### Rambling
 
 - [New](mind-fog/rambling/new_en.md)  
-  - [pl](mind-fog/rambling/new_pl.md)
 - [All](mind-fog/rambling/en.md)  
-  - [pl](mind-fog/rambling/pl.md)
 
 ## Contact
 
