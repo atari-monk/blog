@@ -694,5 +694,15 @@
     "end_time": "23:50",
     "actual_minutes": 24,
     "notes": []
+  },
+  {
+    "date": "2025-03-17",
+    "project": "scripting",
+    "task": "sleep script fix",
+    "estimate_minutes": 20,
+    "start_time": "18:43",
+    "end_time": "19:08",
+    "actual_minutes": 25,
+    "notes": ["start, end, sleep time"]
   }
 ]
