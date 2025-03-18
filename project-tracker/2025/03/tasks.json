@@ -704,5 +704,35 @@
     "end_time": "19:08",
     "actual_minutes": 25,
     "notes": ["start, end, sleep time"]
+  },
+  {
+    "date": "2025-03-17",
+    "project": "solar-system",
+    "task": "Add moon",
+    "estimate_minutes": 20,
+    "start_time": "22:51",
+    "end_time": "00:43",
+    "actual_minutes": 112,
+    "notes": ["Fail, unable to produce 3 body stable orbit"]
+  },
+  {
+    "date": "2025-03-18",
+    "project": "solar_system",
+    "task": "publish",
+    "estimate_minutes": 20,
+    "start_time": "11:11",
+    "end_time": "11:16",
+    "actual_minutes": 5,
+    "notes": []
+  },
+  {
+    "date": "2025-03-18",
+    "project": "solar-system",
+    "task": "Prototype simple game mechanic",
+    "estimate_minutes": 120,
+    "start_time": "15:53",
+    "end_time": "22:06",
+    "actual_minutes": 373,
+    "notes": ["Very hard to achive stable moon orbit"]
   }
 ]
