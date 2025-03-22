@@ -17,5 +17,6 @@
   },
   {"project": "battleship-ts", "task": "Reflect"},
   {"project": "space-station-sim", "task": "New game concept"},
+  {"project": "workout", "task": "game or just research on this"},
   {"project": "declutter files", "task": "Remove not needed files"}
 ]
