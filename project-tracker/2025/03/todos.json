@@ -16,5 +16,6 @@
     "task": "Investigate why i cant use lib HitResult in client logic"
   },
   {"project": "battleship-ts", "task": "Reflect"},
+  {"project": "space-station-sim", "task": "New game concept"},
   {"project": "declutter files", "task": "Remove not needed files"}
 ]

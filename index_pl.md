@@ -1,7 +1,8 @@
-### Dywagacje
+## Mgła Umysłu
 
-- [Nowe](mind-fog/rambling/new_pl.md)
-- [Wszystkie](mind-fog/rambling/pl.md)
+- [Nowe Dywagacje](mind-fog/new_rambling/pl.md)
+- [Dywagacje](mind-fog/rambling/pl.md)
+- [Loteryjka Historyczna](mind-fog/loteryjka_historyczna.md)
 
 ## Kontakt
 

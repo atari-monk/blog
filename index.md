@@ -11,11 +11,9 @@
 
 - [Coding Reflection](mind-fog/coding_reflection.md)
 - [Fame and Authority](mind-fog/fame_and_authority.md)
-
-### Rambling
-
-- [New](mind-fog/rambling/new_en.md)  
-- [All](mind-fog/rambling/en.md)  
+- [AI Rambling](mind-fog/ai_talk.md)
+- [New Rambling](mind-fog/new_rambling/en.md)
+- [Rambling](mind-fog/rambling/en.md)
 
 ## Contact
 
