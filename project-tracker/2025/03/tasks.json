@@ -754,5 +754,45 @@
     "end_time": "14:38",
     "actual_minutes": 47,
     "notes": ["State now, automatically in console"]
+  },
+  {
+    "date": "2025-03-23",
+    "project": "battleship-ts",
+    "task": "Refactor BattleshipGrid to give interface on its dependency",
+    "estimate_minutes": 20,
+    "start_time": "15:46",
+    "end_time": "16:07",
+    "actual_minutes": 21,
+    "notes": []
+  },
+  {
+    "date": "2025-03-23",
+    "project": "battleship-ts",
+    "task": "Refactor BattleshipGrid, extract rendering to class",
+    "estimate_minutes": 20,
+    "start_time": "17:00",
+    "end_time": "17:42",
+    "actual_minutes": 42,
+    "notes": []
+  },
+  {
+    "date": "2025-03-23",
+    "project": "battleship-ts",
+    "task": "Refactor BattleshipGrid, extract classes",
+    "estimate_minutes": 30,
+    "start_time": "19:08",
+    "end_time": "20:59",
+    "actual_minutes": 111,
+    "notes": ["Absolute fail, refactored many classes and tests, browser test failed. Refactor only one class at a time!"]
+  },
+  {
+    "date": "2025-03-23",
+    "project": "battleship-ts",
+    "task": "Refactor BattleshipGrid, extract ShipPlacer",
+    "estimate_minutes": 30,
+    "start_time": "21:56",
+    "end_time": "22:23",
+    "actual_minutes": 27,
+    "notes": []
   }
 ]
