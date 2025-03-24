@@ -794,5 +794,25 @@
     "end_time": "22:23",
     "actual_minutes": 27,
     "notes": []
+  },
+  {
+    "date": "2025-03-24",
+    "project": "battleship-ts",
+    "task": "test for BattleshipGrid isMissNextTo method",
+    "estimate_minutes": 20,
+    "start_time": "13:00",
+    "end_time": "13:36",
+    "actual_minutes": 36,
+    "notes": []
+  },
+  {
+    "date": "2025-03-24",
+    "project": "tests for BattleshipGrid",
+    "task": "tests for BattleshipGrid",
+    "estimate_minutes": 20,
+    "start_time": "18:47",
+    "end_time": "19:28",
+    "actual_minutes": 41,
+    "notes": ["One file for BattleshipGrid.test.ts"]
   }
 ]
