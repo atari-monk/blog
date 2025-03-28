@@ -1,4 +1,4 @@
-# TypeScript Project Template
+# How to Start a TypeScript Project Fast
 
 For a simple TypeScript project where you want a library with code, tests, and a client to test it in the browser console, follow these steps for a **quick and efficient** setup:
 

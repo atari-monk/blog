@@ -1,7 +1,8 @@
-## Instruction
+## Note
 
-- [TypeScript Project Template](instruction/typescript_project.md)
-- [Npm Publish](instruction/npm_publish.md)
+- [TypeScript Project Template](note/typescript_project.md)
+- [Npm Publish](note/npm_publish.md)
+- [File System Format](note/note_folders.md)
 
 ## File Template
 
