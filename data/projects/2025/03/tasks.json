@@ -1061,8 +1061,8 @@
     "task": "notes",
     "estimate_minutes": 20,
     "start_time": "12:04",
-    "end_time": "13:46",
-    "actual_minutes": 102,
+    "end_time": "14:04",
+    "actual_minutes": 120,
     "notes": ["Removing notes files, merging, moving"]
   },
   {
@@ -1070,9 +1070,9 @@
     "project": "battleship-ts",
     "task": "Add a error info to page",
     "estimate_minutes": 20,
-    "start_time": "",
-    "end_time": "",
-    "actual_minutes": 0,
-    "notes": []
+    "start_time": "16:23",
+    "end_time": "18:31",
+    "actual_minutes": 128,
+    "notes": ["Gui of message box, removing, merging notes"]
   }
 ]
