@@ -1061,9 +1061,9 @@
     "task": "notes",
     "estimate_minutes": 20,
     "start_time": "12:04",
-    "end_time": "13:34",
-    "actual_minutes": 90,
-    "notes": ["Removing md notes files, merging"]
+    "end_time": "13:46",
+    "actual_minutes": 102,
+    "notes": ["Removing notes files, merging, moving"]
   },
   {
     "date": "2025-03-29",
