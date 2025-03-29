@@ -1054,5 +1054,25 @@
     "end_time": "22:21",
     "actual_minutes": 267,
     "notes": ["At last fixed bug with ship on edge and corner, still bugs in input and found some when playing"]
+  },
+  {
+    "date": "2025-03-29",
+    "project": "atari-monk-blog",
+    "task": "notes",
+    "estimate_minutes": 20,
+    "start_time": "12:04",
+    "end_time": "13:34",
+    "actual_minutes": 90,
+    "notes": ["Removing md notes files, merging"]
+  },
+  {
+    "date": "2025-03-29",
+    "project": "battleship-ts",
+    "task": "Add a error info to page",
+    "estimate_minutes": 20,
+    "start_time": "",
+    "end_time": "",
+    "actual_minutes": 0,
+    "notes": []
   }
 ]
