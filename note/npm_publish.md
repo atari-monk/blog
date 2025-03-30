@@ -1,4 +1,6 @@
-# **Exporting Library Repository To NPM**
+# Npm Publish
+
+Exporting Library Repository To NPM  
 
 ## **Build and Publish**
 - Run `npm install` to ensure all dependencies are installed.
