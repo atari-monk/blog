@@ -1074,5 +1074,45 @@
     "end_time": "18:31",
     "actual_minutes": 128,
     "notes": ["Gui of message box, removing, merging notes"]
+  },
+  {
+    "date": "2025-03-29",
+    "project": "battleship-ts",
+    "task": "Event driven messages",
+    "estimate_minutes": 30,
+    "start_time": "23:30",
+    "end_time": "00:24",
+    "actual_minutes": 54,
+    "notes": []
+  },
+  {
+    "date": "2025-03-30",
+    "project": "movie",
+    "task": "lotr 2",
+    "estimate_minutes": 140,
+    "start_time": "22:30",
+    "end_time": "03:02",
+    "actual_minutes": 272,
+    "notes": []
+  },
+  {
+    "date": "2025-03-30",
+    "project": "movie",
+    "task": "lotr 2, snl",
+    "estimate_minutes": 120,
+    "start_time": "10:19",
+    "end_time": "17:00",
+    "actual_minutes": 0,
+    "notes": ["video day"]
+  },
+  {
+    "date": "2025-03-30",
+    "project": "portfolio",
+    "task": "List about projects",
+    "estimate_minutes": 30,
+    "start_time": "18:56",
+    "end_time": "",
+    "actual_minutes": 0,
+    "notes": []
   }
 ]

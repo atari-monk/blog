@@ -1,3 +1,4 @@
+- [Personal Projects](note/personal_projects.md)
 - [TypeScript Project Template](note/typescript_project.md)
 - [Npm Publish](note/npm_publish.md)
 - [File System Format](note/note_folders.md)
