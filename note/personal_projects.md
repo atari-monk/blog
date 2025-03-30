@@ -28,6 +28,52 @@ A collection of things I’ve worked on—some for fun, some for learning, and s
 
 ---
 
+### 🎯 [ball-game](#)  
+**What it does:** Client-server, 2 player ball game.  
+How not to do it.  
+**Tech used:** `Html`, `Css`, `Typescript`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/ball-game)  
+**Live Demo:** [Check it out](https://kind-moss-0f787ca03.3.azurestaticapps.net)  
+
+![Project Screenshot](./../image/ball_game.png)  
+*(Balls)*
+
+---
+
+### 🎯 [ball-game-2](#)  
+**What it does:** Client-server, 2 player ball game.  
+**Tech used:** `Html`, `Css`, `Typescript`, `node.js`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/ball-game-2)  
+**Live Demo:** [Check it out](https://atari-monk.itch.io/ball-game-2)  
+
+![Project Screenshot](./../image/ball_game_2.png)  
+*(Ball match)*
+
+---
+
+### 🎯 [ball-game-2.5](#)  
+**What it does:** Client-server, 2 player ball game.  
+Mobile version.  
+**Tech used:** `Html`, `Css`, `Typescript`, `node.js`   
+**Repo:** [GitHub Link](https://github.com/atari-monk/ball_engine)  
+**Live Demo:** [Check it out](https://polite-bush-063bc3b03.3.azurestaticapps.net)  
+
+![Project Screenshot](./../image/ball_game_mobile.png)  
+*(Mobile joystick)*
+
+---
+
+### 🎯 [football_engine](#)  
+**What it does:** Game with a ball.  
+**Tech used:** `Html`, `Css`, `Typescript`, `Nx`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/football_engine)  
+**Live Demo:** [Check it out](https://atari-monk.github.io/football_slideshow/)  
+
+![Project Screenshot](./../image/football_engine.png)  
+*(Scenes)*
+
+---
+
 ### 🎯 [Project Name](#)  
 **What it does:** Description goes here.  
 **Tech used:** `Tech1`, `Tech2`, `Tech3`  
