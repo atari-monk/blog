@@ -6,14 +6,14 @@ A collection of things I’ve worked on—some for fun, some for learning, and s
 
 ## 🛠 Projects  
 
-### 🎯 [Project Name](#)  
-**What it does:** Brief description of the project.  
-**Tech used:** `Tech1`, `Tech2`, `Tech3`  
-**Repo:** [GitHub Link](#)  
-**Live Demo:** [Check it out](#) (if applicable)  
+### 🎯 [battleship-ts](#)  
+**What it does:** Classic Battleship game in typescript.  
+**Tech used:** `Html`, `Css`, `Typescript`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/battleship-ts)  
+**Live Demo:** [Check it out](https://atari-monk.github.io/battleship-ts/game/version_001/index.html)  
 
-![Project Screenshot](./path-to-screenshot.png)  
-*(A short caption or description of the screenshot)*
+![Project Screenshot](./../image/battleship.png)  
+*(AI hits player Grid)*
 
 ---
 
