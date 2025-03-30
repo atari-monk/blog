@@ -1107,10 +1107,20 @@
   },
   {
     "date": "2025-03-30",
-    "project": "portfolio",
-    "task": "List about projects",
+    "project": "personal projects page",
+    "task": "List about my projects",
     "estimate_minutes": 30,
     "start_time": "18:56",
+    "end_time": "19:50",
+    "actual_minutes": 54,
+    "notes": ["added battleship-ts"]
+  },
+  {
+    "date": "2025-03-30",
+    "project": "personal projects page",
+    "task": "List about my projects",
+    "estimate_minutes": 30,
+    "start_time": "21:46",
     "end_time": "",
     "actual_minutes": 0,
     "notes": []

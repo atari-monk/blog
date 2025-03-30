@@ -17,8 +17,19 @@ A collection of things I’ve worked on—some for fun, some for learning, and s
 
 ---
 
+### 🎯 [solar-system](#)  
+**What it does:** Solar system simulation attempt.  
+**Tech used:** `Html`, `Css`, `Typescript`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/solar-system)  
+**Live Demo:** [Check it out](https://atari-monk.github.io/solar-system/client/index.html)  
+
+![Project Screenshot](./../image/solar_system.png)  
+*(Sun, Mercury, Earth, Earth Moon)*
+
+---
+
 ### 🎯 [Project Name](#)  
-**What it does:** Short summary of the project.  
+**What it does:** Description goes here.  
 **Tech used:** `Tech1`, `Tech2`, `Tech3`  
 **Repo:** [GitHub Link](#)  
 **Live Demo:** [Check it out](#)  
