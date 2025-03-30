@@ -28,26 +28,14 @@ A collection of things I’ve worked on—some for fun, some for learning, and s
 
 ---
 
-### 🎯 [ball-game](#)  
-**What it does:** Client-server, 2 player ball game.  
-How not to do it.  
-**Tech used:** `Html`, `Css`, `Typescript`  
-**Repo:** [GitHub Link](https://github.com/atari-monk/ball-game)  
-**Live Demo:** [Check it out](https://kind-moss-0f787ca03.3.azurestaticapps.net)  
+### 🎯 [football_engine](#)  
+**What it does:** Game with a ball.  
+**Tech used:** `Html`, `Css`, `Typescript`, `Nx`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/football_engine)  
+**Live Demo:** [Check it out](https://atari-monk.github.io/football_slideshow/)  
 
-![Project Screenshot](./../image/ball_game.png)  
-*(Balls)*
-
----
-
-### 🎯 [ball-game-2](#)  
-**What it does:** Client-server, 2 player ball game.  
-**Tech used:** `Html`, `Css`, `Typescript`, `node.js`  
-**Repo:** [GitHub Link](https://github.com/atari-monk/ball-game-2)  
-**Live Demo:** [Check it out](https://atari-monk.itch.io/ball-game-2)  
-
-![Project Screenshot](./../image/ball_game_2.png)  
-*(Ball match)*
+![Project Screenshot](./../image/football_engine.png)  
+*(Scenes)*
 
 ---
 
@@ -63,55 +51,54 @@ Mobile version.
 
 ---
 
-### 🎯 [football_engine](#)  
-**What it does:** Game with a ball.  
-**Tech used:** `Html`, `Css`, `Typescript`, `Nx`  
-**Repo:** [GitHub Link](https://github.com/atari-monk/football_engine)  
-**Live Demo:** [Check it out](https://atari-monk.github.io/football_slideshow/)  
+### 🎯 [ball-game-2](#)  
+**What it does:** Client-server, 2 player ball game.  
+**Tech used:** `Html`, `Css`, `Typescript`, `node.js`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/ball-game-2)  
+**Live Demo:** [Check it out](https://atari-monk.itch.io/ball-game-2)  
 
-![Project Screenshot](./../image/football_engine.png)  
-*(Scenes)*
-
----
-
-### 🎯 [Project Name](#)  
-**What it does:** Description goes here.  
-**Tech used:** `Tech1`, `Tech2`, `Tech3`  
-**Repo:** [GitHub Link](#)  
-**Live Demo:** [Check it out](#)  
-
-![Project Screenshot](./path-to-screenshot.png)  
-*(A short caption or description of the screenshot)*
+![Project Screenshot](./../image/ball_game_2.png)  
+*(Ball match)*
 
 ---
 
-### 🎯 [Project Name](#)  
-**What it does:** Description goes here.  
-**Tech used:** `Tech1`, `Tech2`, `Tech3`  
-**Repo:** [GitHub Link](#)  
-**Live Demo:** [Check it out](#)  
+### 🎯 [ball-game](#)  
+**What it does:** Client-server, 2 player ball game.  
+How not to do it.  
+**Tech used:** `Html`, `Css`, `Typescript`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/ball-game)  
+**Live Demo:** [Check it out](https://kind-moss-0f787ca03.3.azurestaticapps.net)  
 
-![Project Screenshot](./path-to-screenshot.png)  
-*(A short caption or description of the screenshot)*
+![Project Screenshot](./../image/ball_game.png)  
+*(Balls)*
+
+---
+
+### 🎯 [js-pong](#)  
+**What it does:** Pong.  
+**Tech used:** `Html`, `Css`, `Typescript`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/js-pong)  
+**Live Demo:** [Check it out](https://atari-monk.github.io/js-pong-page/pong.html)  
+**Tests:** [Tests](https://atari-monk.github.io/js-pong-page/)  
+
+![Project Screenshot](./../image/pong.png)  
+*(Pong proto)*
 
 ---
 
 ## 🔧 Skills & Tools  
 
-- ⚡ **Frontend:** HTML, CSS, JavaScript, React, Vue  
-- 🔥 **Backend:** Node.js, Express, Django, Flask  
-- 🛢️ **Databases:** MySQL, PostgreSQL, MongoDB  
-- 🚀 **Other:** Git, Docker, AWS, CI/CD  
+- ⚡ **Frontend:** HTML, CSS, JavaScript, Typescript  
+- 🔥 **Backend:** Node.js, Express  
+- 🛢️ **Databases:** MongoDB  
+- 🚀 **Other:** Git, Azure  
 
 ---
 
 ## 📬 Get in Touch  
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🌍 Website: [yourwebsite.com](#)  
-🐦 Twitter: [@yourhandle](#)  
-💼 LinkedIn: [your-profile](#)  
-📂 GitHub: [github.com/yourusername](#)  
+📧 Email: [atari.monk1@gmail.com](mailto:atari.monk1@gmail.com)  
+📂 GitHub: [https://github.com/atari-monk](https://github.com/atari-monk)  
 
 ---
 
