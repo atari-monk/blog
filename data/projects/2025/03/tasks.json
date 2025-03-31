@@ -921,8 +921,8 @@
     "task": "5",
     "estimate_minutes": 2,
     "start_time": "17:17",
-    "end_time": "",
-    "actual_minutes": 0,
+    "end_time": "11:12",
+    "actual_minutes": 1075,
     "notes": []
   },
   {
@@ -1133,6 +1133,16 @@
     "start_time": "08:29",
     "end_time": "10:03",
     "actual_minutes": 94,
+    "notes": []
+  },
+  {
+    "date": "2025-03-31",
+    "project": "personal projects page, apps",
+    "task": "List of my projects",
+    "estimate_minutes": 30,
+    "start_time": "10:40",
+    "end_time": "11:13",
+    "actual_minutes": 33,
     "notes": []
   }
 ]

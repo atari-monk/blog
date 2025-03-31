@@ -28,6 +28,17 @@ A collection of things I’ve worked on—some for fun, some for learning, and s
 
 ---
 
+### 🎯 [memory-game](#)  
+**What it does:** Memory game.  
+**Tech used:** `Html`, `Css`, `Javascript`  
+**Repo:** [GitHub Link](https://github.com/atari-monk/memory-game)  
+**Live Demo:** [Check it out](https://atari-monk.github.io/memory-game-1/)  
+
+![Project Screenshot](./../image/memory.png)  
+*(Screenshot)*
+
+---
+
 ### 🎯 [football_engine](#)  
 **What it does:** Game with a ball.  
 **Tech used:** `Html`, `Css`, `Typescript`, `Nx`  
