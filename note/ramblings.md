@@ -832,3 +832,15 @@ Yeah, that’s a harsh reality of life—survival and reproduction drive most be
 Even when people try to create fair or cooperative systems, hidden power structures, greed, and self-interest creep in. So, instead of truly optimizing for *everyone*, societies tend to optimize for those who can game the system best. 
 
 Do you think there’s a way out of this cycle, or is it just the nature of life?
+
+## Pointless Questions
+
+Quesstions are pointless, comming from answears we have.  
+What is the point of working for dying currency ahead of a war ?  
+Did we elect politician to give them option to pray on us ?  
+When someone goes to job it creates politics, managers upon managers ?  
+I assume that problem is jobs themselfs, becouse mostly it is just excuse to get bowl of rise.  
+It is weird that humans have to give some excuse for this pathetic existance.  
+Let two superpowers balance each other all the time so shire can exist in beetween. Othervise one will dominate an bully all others.  
+Woman man relation is that man has weakness and needs to scratch himself.  
+Most people prefer product then ai class software becouse most people are not creative ?  

@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2025-04-01",
+    "project": "django",
+    "task": "learn, automate",
+    "estimate_minutes": 120,
+    "start_time": "15:24",
+    "end_time": "17:20",
+    "actual_minutes": 116,
+    "notes": []
+  },
+  {
+    "date": "2025-04-01",
+    "project": "django",
+    "task": "automate",
+    "estimate_minutes": 30,
+    "start_time": "19:27",
+    "end_time": "20:00",
+    "actual_minutes": 33,
+    "notes": []
+  },
+  {
+    "date": "2025-04-01",
+    "project": "django",
+    "task": "Start a project with scripts",
+    "estimate_minutes": 120,
+    "start_time": "20:01",
+    "end_time": "21:26",
+    "actual_minutes": 85,
+    "notes": ["trying to fix python scripts"]
+  },
+  {
+    "date": "2025-04-01",
+    "project": "django",
+    "task": "Start a project with scripts",
+    "estimate_minutes": 30,
+    "start_time": "21:26",
+    "end_time": "00:02",
+    "actual_minutes": 156,
+    "notes": ["Acctually still working on scripts to make them work simply"]
+  },
+  {
+    "date": "2025-04-02",
+    "project": "django",
+    "task": "automate",
+    "estimate_minutes": 120,
+    "start_time": "12:56",
+    "end_time": "",
+    "actual_minutes": 0,
+    "notes": []
+  }
+]
